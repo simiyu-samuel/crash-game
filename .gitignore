@@ -1,0 +1,31 @@
+# Node.js dependencies
+
+crash-game-backend/node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Crash game specific
+crash-game.db
